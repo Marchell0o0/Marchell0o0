@@ -13,7 +13,7 @@
 ```text
 Python    ██████████░░░░░░░░░░░░░░
 C         ██████████░░░░░░░░░░░░░░
-- ![Python Icon](https://cdn-icons-png.flaticon.com/512/5968/5968350.png) Python (e.g. NumPy, Pandas, TensorFlow, Keras)
+- ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png) Python (e.g. NumPy, Pandas, TensorFlow, Keras)
 - ![C Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png) C (Embedded Systems, Data Structures)
 ```
 
