@@ -10,12 +10,15 @@
 
 ## 💼 Skills & Technologies
 
-```text
+```
 Python    ██████████░░░░░░░░░░░░░░
 C         ██████████░░░░░░░░░░░░░░
-- ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png) Python (e.g. NumPy, Pandas, TensorFlow, Keras)
-- ![C Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png) C (Embedded Systems, Data Structures)
 ```
+
+
+
+- <span style="display: inline-flex; align-items: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python Icon" width="20" height="20" style="margin-right: 8px;">Python (NumPy, Pandas)</span>
+- <span style="display: inline-flex; align-items: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C Icon" width="20" height="20" style="margin-right: 8px;">C (Embedded Systems, Data Structures)</span>
 
 ## 📦 Projects
 
