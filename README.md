@@ -29,7 +29,7 @@ C++       ████████░░░░░░░░░░░░░░░�
 ## 📦 Projects
 
 - 🎓 [University Homework Repository](https://github.com/Marchell0o0/CTU_homeworks) - A comprehensive collection of my university homework, featuring solutions in C, Python, and  AI projects. 
-- [Separate Big Uni Project](https://github.com/Marchell0o0/Fractals) - Desktop C application for fractal rendering and animation with two program communication functionallity
+- [Uni Fractal Project](https://github.com/Marchell0o0/Fractals) - Desktop C application for fractal rendering and animation with two program communication functionallity
 - Backie Desktop C++ application for scheduling, management and optimization of backups
 
 ## 🌍 Communication
