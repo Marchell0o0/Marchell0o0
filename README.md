@@ -1,18 +1,21 @@
 # 👋 Hi there, I'm Mark
 
-🎓 I'm currently a first-year student at **CTU in Prague**, pursuing a Bachelor's degree in **Cybernetics and Robotics**.
+🎓 I'm currently a second-year student at **CTU in Prague**, pursuing a Bachelor's degree in **Cybernetics and Robotics**.
 
 ## 👨‍💻 My Interests
 
-- 🧠 Artificial Intelligence
-- 🤖 Machine Learning
-- 🎓 University projects
+- Artificial Intelligence
+- Machine Learning
+- Electronics
+- Embedded programming
+- University projects
 
 ## 💼 Skills & Technologies
 
 ```
-Python    ██████████░░░░░░░░░░░░░░
-C         ██████████░░░░░░░░░░░░░░
+Python    ███████████████░░░░░░░░░
+C         ███████████████░░░░░░░░░
+C++       ████████░░░░░░░░░░░░░░░░
 ```
 
 
@@ -23,7 +26,7 @@ C         ██████████░░░░░░░░░░░░░�
 ## 📦 Projects
 
 - 🎓 [University Homework Repository](https://github.com/Marchell0o0/CTU_homeworks) - A comprehensive collection of my university homework, featuring solutions in C, Python, and  AI projects. 
-
+- Biggest Uni project - Desktop C application for fractal rendering and animation
 
 ## 🌍 Communication
 
