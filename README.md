@@ -22,7 +22,7 @@ C++       ████████░░░░░░░░░░░░░░░�
 
 
 - Python (NumPy, Pandas)
-- C (Embedded Systems, Data Structures)
+- C (Embedded Systems, Data structures, Algorithms and so on...)
 - C++ (Desktop Applications, exprience in Qt creator)
   
 
