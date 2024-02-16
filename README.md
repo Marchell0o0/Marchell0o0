@@ -4,6 +4,7 @@
 
 ## 👨‍💻 My Interests
 
+- Robotics
 - Artificial Intelligence
 - Machine Learning
 - Electronics
@@ -27,6 +28,7 @@ C++       ████████░░░░░░░░░░░░░░░�
 
 - 🎓 [University Homework Repository](https://github.com/Marchell0o0/CTU_homeworks) - A comprehensive collection of my university homework, featuring solutions in C, Python, and  AI projects. 
 - Biggest Uni project - Desktop C application for fractal rendering and animation
+- Backie Desktop C++ application for scheduling, management and optimization of backups
 
 ## 🌍 Communication
 
