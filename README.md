@@ -2,6 +2,7 @@
 
 I'm currently a third-year student at **CTU in Prague**, pursuing a Bachelor's degree in **Cybernetics and Robotics**.
 
+My CV: [View PDF](CV_Mark_Horpynych_v0.3.pdf)
 
 ## Interests
 
@@ -14,7 +15,7 @@ I have a strong foundation in robotics-related disciplines, including advanced m
 ## 📦 Projects
 
 - [Software for a turtlebot](https://github.com/Marchell0o0/LAR) - Python code that solves, localization, mapping, pathfinding, path tracking and visualization of a turtle robot and it’s environment, that executes a task described by a university subject. With an [extensive Latex documentation](https://github.com/Marchell0o0/LAR/blob/main/LAR_Technical_Report___O__Borys__M__Horpynych.pdf) describing the solution and the task in detail.
-- [Fractal Visualization](https://github.com/Marchell0o0/Fractals) - Desktop C application for fractal rendering and animation with two devices communication functionallity.
+- [Fractal Visualization](https://github.com/Marchell0o0/Fractals) - Desktop C application for fractal rendering and animation with two devices communication functionallity. (Currently doesn't display fractals because of some dumb SDL version problem).
 - [Backie](https://github.com/Marchell0o0/Backie) - Desktop C++ application for scheduling, management and optimization of backups
 - [University Homework Repository](https://github.com/Marchell0o0/CTU_homeworks) - A collection of my university homework, featuring solutions in C, Python, and AI projects.
 
